@@ -61,6 +61,10 @@ pip install timm==0.3.2
 
 Please download and extrate [CUB-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset. 
 
+```
+wget https://s3.amazonaws.com/fast-ai-imageclas/CUB_200_2011.tgz
+```
+
 The directory structure is the following:
 
 ```
